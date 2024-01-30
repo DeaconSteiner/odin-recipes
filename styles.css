@@ -3,3 +3,16 @@
 body {
     background-image: url(./images/chef_hat.jpg);
 }
+
+.title {
+    outline: 5px white;
+    text-align: center;
+    color: black;
+    font-size: 100px;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.link {
+    font-size: 24px;
+}
